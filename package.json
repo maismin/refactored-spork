@@ -21,7 +21,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jest": "^24.9.0",
-    "migrate-mongoose": "^3.2.2",
+    "migrate-mongoose": "^4.0.0",
     "mongoose": "^4.11.1",
     "nodemon": "^1.11.0",
     "passport": "^0.3.2",
